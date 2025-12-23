@@ -15,7 +15,7 @@ thinking about stuff we don't need.
 
 This isn't a "battery saver" toggle. 
 This is a nuclear option!!!!!!!!!!!!!!!!!!!!!!
-I wrote this for myself because I only care about *Notifications and Calls.
+I wrote this for myself because I only care about Notifications and Calls.
 
 ### What you lose:
 - No Sensors: Steps, Heart Rate, Sleep, Stress... all dead.
