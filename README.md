@@ -8,6 +8,7 @@ This script turns your Smartwatch into a "Dumbwatch".
 ##########################################
 # Read this first
 ##########################################
+
 This script makes aggressive changes to the OS. 
 Basically, we are removing parts of One UI's brain so it stops wasting energy 
 thinking about stuff we don't need.
